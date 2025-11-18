@@ -1,0 +1,45 @@
+.{
+    margin:0px;
+    padding:0px ;
+    box-sizing: border-box;
+}
+.html.body{
+    height: 100px;
+}
+body{
+    font-family: monospace;
+    background-color:white ;
+    color: #000000;
+    display: ;
+    grid-template-rows: ;
+
+}
+
+.header{
+background-color: rosybrown;
+padding: 20px;
+display: grid;
+gap: ;
+
+}
+.nav a{
+    text-decoration: ;
+    padding: 
+    color: ;
+    border-radius: ;
+    background-color: ;
+    tranzotion: :
+
+}
+.nav a header{
+background-color: green;
+color: aliceblue;
+transition:1px;
+}
+.block1{
+padding: ;
+display: ;
+justify-items: center:
+gap: ;
+}
+
