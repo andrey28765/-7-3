@@ -8,8 +8,8 @@
 }
 body{
     font-family: monospace;
-    background-color:white ;
-    color: #000000;
+    background-color:rgba(128, 128, 128, 0.671) ;
+    color: black;
     display: ;
     grid-template-rows: ;
 
@@ -32,7 +32,7 @@ gap: ;
 
 }
 .nav a header{
-background-color: green;
+background-color: black;
 color: aliceblue;
 transition:1px;
 }
